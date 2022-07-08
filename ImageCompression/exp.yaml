@@ -1,0 +1,5 @@
+data: /u/faridzandi/csc2231/imagenet/temp/imagenet-mini/train/
+
+mask_model: /u/faridzandi/csc2231/mask_generation/models/0.7_wbce_w0-1_w1-1.12/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
+encoder_model: /u/faridzandi/csc2231/ImageCompression/pretrained/encoder_epoch_00000001.pth
+decoder_model: /u/faridzandi/csc2231/ImageCompression/pretrained/decoder_epoch_00000001.pth

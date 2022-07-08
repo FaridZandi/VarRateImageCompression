@@ -1,0 +1,7 @@
+batch_size: 16
+train: /u/faridzandi/csc2231/ImageCompression/data/patches32
+max_epochs: 10
+lr: 0.0005
+iterations: 16
+checkpoint: null
+
