@@ -16,7 +16,7 @@ Then, compress the background parts of the image more than the important parts:
 
 ![recon](https://github.com/FaridZandi/VarRateImageCompression/blob/master/recon.jpg)
 
-#Evaluations 
+# Evaluations 
 
 Our method could not beat the baseline models (compressing the whole image with fixed rates) in image classification task: 
 
